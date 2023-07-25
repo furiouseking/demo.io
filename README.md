@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en-US" class="hide-scroll">
 <head> 
-    google-site-verification: googlee37748e0257a079a.html
-    <meta name="Keywords">
+        <meta name="Keywords">
     <meta name="Description">
     <meta name="google-site-verification" content="tTpggMq7Bquxf2AaOysDQWFXx0BZsQarxnUPnTk2X50" />
     
