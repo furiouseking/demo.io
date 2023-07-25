@@ -1,8 +1,6 @@
-
 <!DOCTYPE html>
 <html lang="en-US" class="hide-scroll">
 <head> 
-	<meta name="google-site-verification" content="tTpggMq7Bquxf2AaOysDQWFXx0BZsQarxnUPnTk2X50" />
     <title>Solar energy company HTML Template Live Demo</title>
     <meta name="Keywords">
     <meta name="Description">
@@ -468,6 +466,8 @@ var shareasaleSSCID=shareasaleGetParameterByName("sscid");function shareasaleSet
             height: 100%;
         }
     </style>
+
+    <meta name="google-site-verification" content="tTpggMq7Bquxf2AaOysDQWFXx0BZsQarxnUPnTk2X50" />
 
 </head>
     <body>
